@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udiaslautaro
-- 👀 I’m interested in testing automation and programming
-- 🌱 I’m currently learning Java, JavaScript, HTML and CSS
+- 👀 I’m interested in programming and testing automation
+- 🌱 I’m currently learning Java, JavaScript, PHP, HTML and CSS
 - 💞️ I’m looking to collaborate on proyects that could expand my experience and knowledge 
 - 📫 How to reach me contact at udiaslautaro@gmail.com
 
